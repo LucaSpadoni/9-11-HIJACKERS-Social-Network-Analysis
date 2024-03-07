@@ -20,3 +20,5 @@ The main purpose of our work is to highlight any possible relationship along wit
 - Assortativity;
 - Modularity and communities;
 - Group of nodes (K-components Cliques).
+
+<h3>Results analysis</h3>
