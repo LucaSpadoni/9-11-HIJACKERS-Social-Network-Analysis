@@ -1,6 +1,6 @@
 # 9/11 HIJACKERS - Social Network Analysis
 
-This study aims to explore and analyze the dataset of the terrorists involved in the 9/11 bombing of the World Trade Centres in 2001 [provided by UCINET Software](https://sites.google.com/site/ucinetsoftware/datasets/covert-networks/911-hijackers?authuser=0), in order to unravel any relational patterns and information on the subjects present in the dataset itself.
+This study aims to explore and analyze the dataset of the terrorists involved in the 9/11 bombing of the World Trade Centres in 2001 [provided by UCINET Software](https://sites.google.com/site/ucinetsoftware/datasets/covert-networks/911-hijackers?authuser=0) in order to unravel any relational patterns and information on the subjects present in the dataset itself.
 
 <h3>Preprocessing</h3>
 First of all, the two main datasets, the 1-mode matrix 61 x 61 of associates and the list of attributes, were merged together in order to have a single useful dataset with all the associates and the relevant attributes for our work. We then noticed that some more organization and filtering on the dataset was needed, in particular:
@@ -22,3 +22,6 @@ The main purpose of our work is to highlight any possible relationship along wit
 - Group of nodes (K-components Cliques).
 
 <h3>Results analysis</h3>
+First of all we built an undirected and unweighted graph in which each edge between two nodes represents a relationship ranging from "at school with" to "lived together". Since using the full names of the subjects as the label of each node was inconvenient given their excessive length, we replaced them with an acronym made up of the initials of the name (plus middle name if present) and surname. 
+
+![graph](https://github.com/LucaSpadoni/9-11-Hijackers-Social-Network-Analysis/blob/main/imgs/graph.png)
