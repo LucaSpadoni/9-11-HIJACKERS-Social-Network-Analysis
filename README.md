@@ -26,3 +26,6 @@ First of all we built an undirected and unweighted graph in which each edge betw
 
 
 ![graph](https://github.com/LucaSpadoni/9-11-Hijackers-Social-Network-Analysis/blob/main/imgs/graph.png)
+
+<h4>Degree centrality</h4>
+
