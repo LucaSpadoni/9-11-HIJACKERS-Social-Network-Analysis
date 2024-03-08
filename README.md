@@ -24,4 +24,5 @@ The main purpose of our work is to highlight any possible relationship along wit
 <h3>Results analysis</h3>
 First of all we built an undirected and unweighted graph in which each edge between two nodes represents a relationship ranging from "at school with" to "lived together". Since using the full names of the subjects as the label of each node was inconvenient given their excessive length, we replaced them with an acronym made up of the initials of the name (plus middle name if present) and surname. 
 
+
 ![graph](https://github.com/LucaSpadoni/9-11-Hijackers-Social-Network-Analysis/blob/main/imgs/graph.png)
