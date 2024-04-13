@@ -30,5 +30,6 @@ First of all we built an undirected and unweighted graph in which each edge betw
 <h4>Degree centrality</h4>
 
 <h3>Applied measures</h3>
-![mapping](https://github.com/LucaSpadoni/9-11-Hijackers-Social-Network-Analysis/blob/main/imgs/mapping.png)
+[mapping](https://github.com/LucaSpadoni/9-11-Hijackers-Social-Network-Analysis/blob/main/imgs/mapping.png)
+
 
